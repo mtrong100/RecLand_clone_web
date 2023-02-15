@@ -540,6 +540,7 @@ body {
 .brand-list {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
+  place-items: center;
   /* display: flex;
   align-items: center;
   flex-wrap: wrap;
